@@ -24,7 +24,7 @@ Tudo o que precisa estar pronto no pré-pré-lançamento, mais os testes de 15/1
 | 10/10, sábado | Decisões de base | Lais, Mikael, Dawan e Emerson | 15 |
 | 11/10, domingo | Copy e oferta | criação Lais · aprovação Mikael e Emerson | 11 |
 | 12/10, segunda, feriado | Estrutura de captação | Lais | 13 |
-| 13/10, terça | Produtos e checkout | Lais, Mikael, Dawan e Emerson | 3 |
+| 13/10, terça | Produtos e checkout | produtos Dawan · checkout Lais, Mikael, Dawan e Emerson | 3 |
 | 14/10, quarta | Validação do checklist de lançamento | Lais, Mikael, Dawan e Emerson | 7 |
 | 15/10, quinta, início da captação | Tráfego e testes | Lais, Mikael, Dawan e Emerson | 5 |
 
@@ -129,11 +129,11 @@ Feriado nacional. Página e grupo precisam estar de pé antes da validação de 
 
 ## 13/10, terça · Produtos e checkout
 
-Responsáveis: Lais, Mikael, Dawan e Emerson
+Responsáveis: produtos Dawan · checkout Lais, Mikael, Dawan e Emerson
 
-Os dois produtos de apoio e o checkout precisam estar prontos até 14/10.
+Os dois produtos que completam a esteira e o checkout precisam estar prontos até 14/10.
 
-**Produtos** · Pedido de 09/10
+**Montagem da oferta · produtos da esteira** · Responsável: Dawan
 
 - [ ] Deixar pronto o MVP (isca)
 - [ ] Deixar pronto o Chakar Hub Basic (ticket mais baixo)
