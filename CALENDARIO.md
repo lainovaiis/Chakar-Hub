@@ -20,16 +20,16 @@ Tudo o que precisa estar pronto no pré-pré-lançamento, mais os testes de 15/1
 
 | Dia | Foco | Responsáveis | Tarefas |
 |---|---|---|---|
-| 10/10, sábado | Decisões de base | Lai, Mikael, Dawan e Emerson | 15 |
-| 11/10, domingo | Copy e oferta | criação Lai · aprovação Mikael e Emerson | 11 |
-| 12/10, segunda, feriado | Estrutura de captação | Lai | 13 |
-| 13/10, terça | Produtos e checkout | a definir | 3 |
-| 14/10, quarta | Validação do checklist de lançamento | a definir | 7 |
-| 15/10, quinta, início da captação | Tráfego e testes | a definir | 5 |
+| 10/10, sábado | Decisões de base | Lais, Mikael, Dawan e Emerson | 15 |
+| 11/10, domingo | Copy e oferta | criação Lais · aprovação Mikael e Emerson | 11 |
+| 12/10, segunda, feriado | Estrutura de captação | Lais | 13 |
+| 13/10, terça | Produtos e checkout | Lais, Mikael, Dawan e Emerson | 3 |
+| 14/10, quarta | Validação do checklist de lançamento | Lais, Mikael, Dawan e Emerson | 7 |
+| 15/10, quinta, início da captação | Tráfego e testes | Lais, Mikael, Dawan e Emerson | 5 |
 
 ## 10/10, sábado · Decisões de base
 
-Responsáveis: Lai, Mikael, Dawan e Emerson
+Responsáveis: Lais, Mikael, Dawan e Emerson
 
 Uma reunião de alinhamento resolve o dia. Parte das definições já está confirmada.
 
@@ -65,7 +65,7 @@ Uma reunião de alinhamento resolve o dia. Parte das definições já está conf
 
 ## 11/10, domingo · Copy e oferta
 
-Responsáveis: criação Lai · aprovação Mikael e Emerson
+Responsáveis: criação Lais · aprovação Mikael e Emerson
 
 Último dia do prazo de copy no quadro. A oferta fecha com as decisões de sábado.
 
@@ -97,7 +97,7 @@ Responsáveis: criação Lai · aprovação Mikael e Emerson
 
 ## 12/10, segunda, feriado · Estrutura de captação
 
-Responsáveis: Lai
+Responsáveis: Lais
 
 Feriado nacional. Página e grupo precisam estar de pé antes da validação de quarta.
 
@@ -128,7 +128,7 @@ Feriado nacional. Página e grupo precisam estar de pé antes da validação de 
 
 ## 13/10, terça · Produtos e checkout
 
-Responsáveis: a definir
+Responsáveis: Lais, Mikael, Dawan e Emerson
 
 Os dois produtos de apoio e o checkout precisam estar prontos até 14/10.
 
@@ -143,7 +143,7 @@ Os dois produtos de apoio e o checkout precisam estar prontos até 14/10.
 
 ## 14/10, quarta · Validação do checklist de lançamento
 
-Responsáveis: a definir
+Responsáveis: Lais, Mikael, Dawan e Emerson
 
 Prazo final. Conferência de tudo o que foi feito e preparação do dia 15.
 
@@ -168,7 +168,7 @@ Prazo final. Conferência de tudo o que foi feito e preparação do dia 15.
 
 ## 15/10, quinta, início da captação · Tráfego e testes
 
-Responsáveis: a definir
+Responsáveis: Lais, Mikael, Dawan e Emerson
 
 Primeiro dia da captação. Valor de investimento confirmado e tudo testado.
 
@@ -197,4 +197,4 @@ Primeiro dia da captação. Valor de investimento confirmado e tudo testado.
 - As tarefas vêm dos checklists do quadro do Trello. O quadro é a fonte oficial: ao concluir, marque lá.
 - Itens de Pedido de 09/10 (MVP, Chakar Hub Basic, checkout com downsell e validação) ainda não estão no quadro.
 - Itens de Cronograma (criativos e envio dos anúncios) vêm do cronograma do lançamento, não de um checklist.
-- Os dias 13/10, 14/10 e 15/10 ainda não têm responsável.
+- Equipe responsável: Lais, Mikael, Dawan e Emerson. A divisão de funções por pessoa ainda é uma tarefa de sábado.
