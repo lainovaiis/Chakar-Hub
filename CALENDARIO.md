@@ -10,7 +10,8 @@ Tudo o que precisa estar pronto no pré-pré-lançamento, mais os testes de 15/1
 
 - Calls no Meet: 15/11 (demonstração ao vivo) e 17/11 (abertura de carrinho)
 - Metas: 400 leads no grupo, 150 na call, 10 vendas
-- Faturamento planejado: R$ 36.000,00
+- Faturamento planejado no lançamento: R$ 36.000,00 (10 implementações)
+- Faturamento projetado em 12 meses: R$ 57.670,00 (R$ 36.000 de 10 implementações + R$ 21.670 de 11 mensalidades de R$ 197 por cliente, com pagamento a partir do segundo mês)
 - Preço da implementação: de R$ 5.200 por R$ 3.600 (Black Friday, com ancoragem dos 10 primeiros)
 - Abertura do carrinho: 17/11, na Call 02
 - Preço da mensalidade: R$ 197, em plano de 12
