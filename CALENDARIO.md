@@ -13,6 +13,8 @@ Tudo o que precisa estar pronto no pré-pré-lançamento, mais os testes de 15/1
 - Faturamento planejado: R$ 36.000,00
 - Preço: de R$ 5.200 por R$ 3.600 (Black Friday, com ancoragem dos 10 primeiros)
 - Oferta: 17/10
+- Mensalidade: R$ 197, em plano de 12
+- Bônus proposto: a 1ª mensalidade é o bônus ("você só começa a pagar a mensalidade no segundo mês"); falta a aprovação de Mikael e Emerson
 
 | Dia | Foco | Responsáveis | Tarefas |
 |---|---|---|---|
