@@ -12,6 +12,7 @@ Tudo o que precisa estar pronto no pré-pré-lançamento, mais os testes de 15/1
 - Metas: 400 leads no grupo, 150 na call, 10 vendas
 - Faturamento planejado: R$ 36.000,00
 - Preço: de R$ 5.200 por R$ 3.600 (Black Friday, com ancoragem dos 10 primeiros)
+- Abertura do carrinho: 17/11, na Call 02
 - Oferta: 17/10
 - Mensalidade: R$ 197, em plano de 12
 - Bônus proposto: a 1ª mensalidade é o bônus ("você só começa a pagar a mensalidade no segundo mês"); falta a aprovação de Mikael e Emerson
@@ -50,7 +51,7 @@ Uma reunião de alinhamento resolve o dia. Parte das definições já está conf
 **Demandas, ofertas e metas** · [Oferta e produto](https://trello.com/c/KOq2vjuC)
 
 - [x] Definir o preço de lançamento e o preço cheio (para a oferta ter âncora e urgência) (confirmado: cheio R$ 5.200, lançamento R$ 3.600, Black Friday com ancoragem dos 10 primeiros)
-- [ ] Definir data de abertura do carrinho
+- [x] Definir data de abertura do carrinho (confirmado: 17/11, na Call 02)
 - [ ] Definir plataforma de vendas e data para configurar a oferta
 
 **Plataformas** · [Preparação](https://trello.com/c/frOXso9P)
