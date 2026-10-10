@@ -11,10 +11,10 @@ Tudo o que precisa estar pronto no pré-pré-lançamento, mais os testes de 15/1
 - Calls no Meet: 15/11 (demonstração ao vivo) e 17/11 (abertura de carrinho)
 - Metas: 400 leads no grupo, 150 na call, 10 vendas
 - Faturamento planejado: R$ 36.000,00
-- Preço: de R$ 5.200 por R$ 3.600 (Black Friday, com ancoragem dos 10 primeiros)
+- Preço da implementação: de R$ 5.200 por R$ 3.600 (Black Friday, com ancoragem dos 10 primeiros)
 - Abertura do carrinho: 17/11, na Call 02
+- Preço da mensalidade: R$ 197, em plano de 12
 - Oferta: 17/10
-- Mensalidade: R$ 197, em plano de 12
 - Bônus proposto: a 1ª mensalidade é o bônus ("você só começa a pagar a mensalidade no segundo mês"); falta a aprovação de Mikael e Emerson
 
 | Dia | Foco | Responsáveis | Tarefas |
@@ -42,7 +42,7 @@ Uma reunião de alinhamento resolve o dia. Parte das definições já está conf
 
 **Alinhamento** · [Preparação](https://trello.com/c/frOXso9P)
 
-- [x] Confirmar preço (confirmado: de R$ 5.200 por R$ 3.600)
+- [x] Confirmar preço (implementação e mensalidade) (confirmado: implementação de R$ 5.200 por R$ 3.600; mensalidade de R$ 197, em plano de 12)
 - [ ] Confirmar oferta, preço e bônus
 - [ ] Confirmar rotina de reuniões e relatórios (semanal, com relatórios aos domingos)
 - [ ] Combinar prazo de aprovação das copies (sugestão: 24h)
@@ -50,7 +50,7 @@ Uma reunião de alinhamento resolve o dia. Parte das definições já está conf
 
 **Demandas, ofertas e metas** · [Oferta e produto](https://trello.com/c/KOq2vjuC)
 
-- [x] Definir o preço de lançamento e o preço cheio (para a oferta ter âncora e urgência) (confirmado: cheio R$ 5.200, lançamento R$ 3.600, Black Friday com ancoragem dos 10 primeiros)
+- [x] Definir o preço de lançamento e o preço cheio (para a oferta ter âncora e urgência) (confirmado: implementação: cheio R$ 5.200, lançamento R$ 3.600, Black Friday com ancoragem dos 10 primeiros; mensalidade de R$ 197)
 - [x] Definir data de abertura do carrinho (confirmado: 17/11, na Call 02)
 - [ ] Definir plataforma de vendas e data para configurar a oferta
 
