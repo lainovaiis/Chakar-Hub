@@ -15,6 +15,7 @@ Tudo o que precisa estar pronto no pré-pré-lançamento, mais os testes de 15/1
 - Preço da implementação: de R$ 5.200 por R$ 3.600 (Black Friday, com ancoragem dos 10 primeiros)
 - Abertura do carrinho: 17/11, na Call 02
 - Preço da mensalidade: R$ 197, em plano de 12
+- Validade da oferta: até 20/11, às 23:59
 - Oferta: 17/10
 - Bônus proposto: a 1ª mensalidade é o bônus ("você só começa a pagar a mensalidade no segundo mês"); falta a aprovação de Mikael e Emerson
 
@@ -39,7 +40,7 @@ Uma reunião de alinhamento resolve o dia. Parte das definições já está conf
 - [x] Definir meta de leads, de presença ao vivo e de vendas (confirmado: 400 leads no grupo, 150 na call, 10 vendas)
 - [x] Definir faturamento planejado (confirmado: R$ 36.000,00)
 - [x] Definir data das 2 calls no Meet (dia 1, demonstração ao vivo; dia 2, abertura de carrinho) (confirmado: 15/11 e 17/11)
-- [ ] Definir data e horário da validade da oferta
+- [x] Definir data e horário da validade da oferta (confirmado: até 20/11, às 23:59)
 
 **Alinhamento** · [Preparação](https://trello.com/c/frOXso9P)
 
@@ -77,7 +78,7 @@ Responsáveis: criação Lais · aprovação Mikael e Emerson
 **Montagem da oferta** · [Oferta e produto](https://trello.com/c/KOq2vjuC)
 
 - [ ] Definir downsell (sugestão do quadro: Chakar Hub Basic)
-- [ ] Definir a validade da oferta, para dar escassez
+- [x] Definir a validade da oferta, para dar escassez (confirmado: até 20/11, às 23:59)
 - [ ] Definir a garantia (por exemplo, 7 dias), que reduz a objeção
 
 **Demandas, ofertas e metas** · [Oferta e produto](https://trello.com/c/KOq2vjuC)
@@ -87,7 +88,7 @@ Responsáveis: criação Lais · aprovação Mikael e Emerson
 **Vendas** · [Oferta e produto](https://trello.com/c/KOq2vjuC)
 
 - [ ] Definir as formas de pagamento (Pix, cartão, parcelamento)
-- [ ] Definir o prazo de validade da oferta (quando o preço de lançamento acaba)
+- [x] Definir o prazo de validade da oferta (quando o preço de lançamento acaba) (confirmado: até 20/11, às 23:59)
 
 **Drive** · [Preparação](https://trello.com/c/frOXso9P)
 
